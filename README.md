@@ -13,8 +13,7 @@ The Empire State Building | 410 | 5
 The New York Subway | 1709 | 16
 The Golden Gate Bridge | 1603 | 11
 
-This simple README is open to PRs to correct any figures, add any more examples (especially instances with good sources 
-
+Of course the P-80 would need to be compared against other aircraft as 2 deaths is probably not unusual for such a craft.
 
 For the record, I don't think our increasing reverance for life is the main driving factor for our manufacturing malaise, and would lean toward the increased bureaucracy side of things.
 
@@ -23,3 +22,6 @@ For the record, I don't think our increasing reverance for life is the main driv
 ~ Peter Stibrany
 
 We already do have some implicit acceptance for trading off deaths for speed. In driving for example, if speed limits were half what they are there would be a lot fewer road deaths. In some other areas, like airport security, we're probably already at the limits of how slow we can go...
+
+
+**This simple README is open to PRs to correct any figures, add any more examples (especially instances with good sources of their construction and no or low deaths)**
