@@ -1,5 +1,5 @@
 # Death tolls from famously rapid projects
-_Are things only slower because deaths are less acceptable?_
+_Are big projects only slower now because deaths are less acceptable?_
 
 Some of the following examples are taken from [Patrick Collison's nicely curated list of fast projects](https://patrickcollison.com/fast). They are the ones for which I could find a readily available figure for the deaths involved in the _creation_ phase of the project—the bit we care about in terms of speed.
 
